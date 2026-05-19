@@ -1,8 +1,6 @@
 {
   "files.associations": {
-    "*.sh": "shellscript",
-    "install.sh": "shellscript",
-    "upscale.sh": "shellscript"
+    "*.sh": "shellscript"
   },
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
